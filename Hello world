@@ -1,0 +1,13 @@
+# Kejutkan teman-temanmu!
+my_words = ["Hi!", "Python Pro", "Kodland"] 
+print(my_words[0])
+
+name = input("Masukkan nama anda:")
+print("Hi ", name)
+
+import random
+emojis = ["^^", "0_o", ":)", "¯\\_(ツ)_/¯", "(￢_￢)"]
+print(random.choice(emojis))
+
+Hobi = ['Makan', 'Main game', 'Nonton film']
+print('Hobi aku:',random.choice(Hobi))
